@@ -9,8 +9,7 @@ Surface temperature: The temperature is calculated in Kelvin, which is a tempera
 
 Planetary mass: The planetary mass is calculated in Mjup (mass relative to Jupiter's mass)
 
-
-
+# License
 Copyright (C) 2012 Hanno Rein
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of this database and associated scripts (the "Database"), to deal in the Database without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Database, and to permit persons to whom the Database is furnished to do so, subject to the following conditions:
