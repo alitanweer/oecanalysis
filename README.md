@@ -5,9 +5,9 @@ That's a analysis of all discovered extra solar planets having similar features 
 
 The 2 main features looked into are the surface temperature and the planetary mass.
 
-Surface temperature: The temperature is calculated in Kelvin
+**Surface temperature**: The temperature is calculated in Kelvin
 
-Planetary mass: The planetary mass is calculated in Mjup (mass relative to Jupiter's mass)
+**Planetary mass**: The planetary mass is calculated in Mjup (mass relative to Jupiter's mass)
 
 # License
 Copyright (C) 2012 Hanno Rein
