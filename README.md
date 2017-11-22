@@ -11,6 +11,8 @@ The 2 main features looked into are the surface temperature and the planetary ma
 
 Everything needed is in the "Material" folder
 
+To reproduce everything in the Jupyter notebook, install Anaconda(https://www.anaconda.com/).
+
 # License
 Copyright (C) 2012 Hanno Rein
 
