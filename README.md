@@ -9,6 +9,8 @@ The 2 main features looked into are the surface temperature and the planetary ma
 
 **Planetary mass**: The planetary mass is calculated in Mjup (mass relative to Jupiter's mass)
 
+Everything needed is in the "Material" folder
+
 # License
 Copyright (C) 2012 Hanno Rein
 
